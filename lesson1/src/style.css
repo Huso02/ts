@@ -1,0 +1,14 @@
+input, select {
+  margin-bottom: 20px;
+}
+label {
+  margin-bottom: 5px;
+}
+
+button {
+  padding: 7px 10px;
+  border: none;
+  color: white;
+  background-color: rgb(54, 130, 196);
+  border-radius: 3px;
+}
